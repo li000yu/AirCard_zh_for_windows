@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# PyInstaller
+build/
+dist/
+
+# 测试截图
+tests/_shots/
+tests/_exe_*.txt
+
+# 运行时产物
+*.log
+
+# 本机卡面备份（含个人数据，不入库）
+aircard_backups/
+
+# 打包产物 / 待分发的压缩包
+*.rar
+*.zip
+*.7z
+_backup_*.exe
+
+# 助手工作区
+.workbuddy/
+*.spec.bak
