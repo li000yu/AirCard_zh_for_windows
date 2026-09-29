@@ -1,5 +1,13 @@
 # AirCard for Windows 🎴
 
+**简体中文** | [English](README_EN.md)
+
+![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue)
+![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
+![iOS](https://img.shields.io/badge/iOS-27.0-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-v1.9.6-orange)
+
 > **Apple Wallet 卡面换肤 与 锁屏密码主题工具（Windows 版 · 全中文界面）**
 > 基于 `airlift`（AirTraffic 同步逃逸）漏洞，无需越狱。
 > 本项目是 [Mak5er/AirCard](https://github.com/Mak5er/AirCard)（macOS 版）的 **Windows 移植 + 中文化**版本，
